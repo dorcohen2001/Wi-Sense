@@ -15,7 +15,6 @@ Best for Development, real-time signal diagnostics, historical data logging (.js
 
 Real-Time Visualization Dashboard
 
-
 <img width="743" height="543" alt="Screenshot 2026-05-29 135259" src="https://github.com/user-attachments/assets/49c06963-4bf8-493f-b39f-878bd6749fd2" />
 
 2. 📱 wi-sense-edge
@@ -26,6 +25,8 @@ How it works No PC or Python script required. All digital signal processing, var
 Best for Low-power standalone applications, quick field deployment, and monitoring motion alerts directly from any mobile web browser via portable power banks.
 
 Real-Time Visualization Dashboard
+
+
 <img width="476" height="660" alt="image" src="https://github.com/user-attachments/assets/4dad4212-d181-4958-b223-77a6439cca60" />
 
 
