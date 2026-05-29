@@ -13,6 +13,9 @@ How it works The ESP32 receiver acts as a gateway, capturing raw CSI packets and
 
 Best for Development, real-time signal diagnostics, historical data logging (.jsonl), and academic research into CSI behavior.
 
+Real-Time Visualization Dashboard
+<img width="743" height="543" alt="Screenshot 2026-05-29 135259" src="https://github.com/user-attachments/assets/49c06963-4bf8-493f-b39f-878bd6749fd2" />
+
 2. 📱 wi-sense-edge
 Concept Fully embedded, standalone edge computing.
 
