@@ -23,6 +23,7 @@ How it works No PC or Python script required. All digital signal processing, var
 
 Best for Low-power standalone applications, quick field deployment, and monitoring motion alerts directly from any mobile web browser via portable power banks.
 
+Real-Time Visualization Dashboard
 <img width="476" height="660" alt="image" src="https://github.com/user-attachments/assets/4dad4212-d181-4958-b223-77a6439cca60" />
 
 
