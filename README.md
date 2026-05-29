@@ -22,6 +22,9 @@ Concept Fully embedded, standalone edge computing.
 How it works No PC or Python script required. All digital signal processing, variance filtering, and threshold analysis are performed directly on the ESP32 chip (Edge Processing). The board generates its own local Wi-Fi network (Wi-Sense-Net) and hosts a lightweight web server.
 
 Best for Low-power standalone applications, quick field deployment, and monitoring motion alerts directly from any mobile web browser via portable power banks.
+<img width="476" height="660" alt="image" src="https://github.com/user-attachments/assets/4dad4212-d181-4958-b223-77a6439cca60" />
+
+
 
 🚀 Getting Started
 To fully understand, deploy, and configure either version, navigate into your directory of choice and follow the detailed step-by-step documentation provided within
